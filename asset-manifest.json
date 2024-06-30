@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/football-teams-raiting/static/css/main.62986fc9.css",
-    "main.js": "/football-teams-raiting/static/js/main.2bb59131.js",
+    "main.css": "/football-teams-raiting/static/css/main.b3a71f7f.css",
+    "main.js": "/football-teams-raiting/static/js/main.06633cf9.js",
     "index.html": "/football-teams-raiting/index.html",
-    "main.62986fc9.css.map": "/football-teams-raiting/static/css/main.62986fc9.css.map",
-    "main.2bb59131.js.map": "/football-teams-raiting/static/js/main.2bb59131.js.map"
+    "main.b3a71f7f.css.map": "/football-teams-raiting/static/css/main.b3a71f7f.css.map",
+    "main.06633cf9.js.map": "/football-teams-raiting/static/js/main.06633cf9.js.map"
   },
   "entrypoints": [
-    "static/css/main.62986fc9.css",
-    "static/js/main.2bb59131.js"
+    "static/css/main.b3a71f7f.css",
+    "static/js/main.06633cf9.js"
   ]
 }
